@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>פייק אחד ביום</title>
+    <link>/</link>
+    <description>Recent content on פייק אחד ביום</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>פייק 1</title>
+      <link>/fakes/fake1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fakes/fake1/</guid>
+      <description>החיסון נבדק רק על 1,500 ילדים</description>
+    </item>
+    
+    <item>
+      <title>פייק 2</title>
+      <link>/fakes/fake2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fakes/fake2/</guid>
+      <description>המחלה לא פוגעת בילדים, עובדה שלא מתו ילדים מהמחלה</description>
+    </item>
+    
+    <item>
+      <title>פייק 3</title>
+      <link>/fakes/fake3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fakes/fake3/</guid>
+      <description>הסיכון למיוקרדיטיס (דלקת בשריר הלב) גבוה יותר מסיבוכי מחלת הקורונה</description>
+    </item>
+    
+    <item>
+      <title>פייק 4</title>
+      <link>/fakes/fake4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fakes/fake4/</guid>
+      <description>ילדים בריאים לא נפגעים מקורונה</description>
+    </item>
+    
+    <item>
+      <title>פייק 5</title>
+      <link>/fakes/fake5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fakes/fake5/</guid>
+      <description>החיסון גורם לבעיות פוריות</description>
+    </item>
+    
+  </channel>
+</rss>
