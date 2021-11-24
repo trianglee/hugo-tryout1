@@ -6,48 +6,57 @@
     <description>Recent content in פייקים on פייק אחד ביום</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="/fakes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>פייק 1</title>
-      <link>/fakes/fake1/</link>
+      <title>בעיות פוריות</title>
+      <link>/fakes/fertility-problems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/fakes/fake1/</guid>
-      <description>החיסון נבדק רק על 1,500 ילדים</description>
+      <guid>/fakes/fertility-problems/</guid>
+      <description>החיסון גורם לבעיות פוריות</description>
     </item>
     
     <item>
-      <title>פייק 2</title>
-      <link>/fakes/fake2/</link>
+      <title>החיסון לא מגן מהדבקה</title>
+      <link>/fakes/protection-from-infection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/fakes/fake2/</guid>
-      <description>המחלה לא פוגעת בילדים, עובדה שלא מתו ילדים מהמחלה</description>
+      <guid>/fakes/protection-from-infection/</guid>
+      <description>החיסון לא מגן מהדבקה</description>
     </item>
     
     <item>
-      <title>פייק 3</title>
-      <link>/fakes/fake3/</link>
+      <title>הסיכון למיוקרדיטיס</title>
+      <link>/fakes/myocarditis-risk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/fakes/fake3/</guid>
+      <guid>/fakes/myocarditis-risk/</guid>
       <description>הסיכון למיוקרדיטיס (דלקת בשריר הלב) גבוה יותר מסיבוכי מחלת הקורונה</description>
     </item>
     
     <item>
-      <title>פייק 4</title>
-      <link>/fakes/fake4/</link>
+      <title>ילדים בריאים לא נפגעים</title>
+      <link>/fakes/healthy-children-not-affected/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/fakes/fake4/</guid>
+      <guid>/fakes/healthy-children-not-affected/</guid>
       <description>ילדים בריאים לא נפגעים מקורונה</description>
     </item>
     
     <item>
-      <title>פייק 5</title>
-      <link>/fakes/fake5/</link>
+      <title>כמות נבדקים</title>
+      <link>/fakes/amount-of-test-subjects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/fakes/fake5/</guid>
-      <description>החיסון גורם לבעיות פוריות</description>
+      <guid>/fakes/amount-of-test-subjects/</guid>
+      <description>החיסון נבדק רק על 1,500 ילדים</description>
+    </item>
+    
+    <item>
+      <title>לא פוגעת בילדים</title>
+      <link>/fakes/children-not-hurt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fakes/children-not-hurt/</guid>
+      <description>המחלה לא פוגעת בילדים, עובדה שלא מתו ילדים מהמחלה</description>
     </item>
     
   </channel>
